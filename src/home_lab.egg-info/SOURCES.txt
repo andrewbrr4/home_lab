@@ -1,8 +1,0 @@
-README.md
-pyproject.toml
-src/home_lab/__init__.py
-src/home_lab/defaults.py
-src/home_lab.egg-info/PKG-INFO
-src/home_lab.egg-info/SOURCES.txt
-src/home_lab.egg-info/dependency_links.txt
-src/home_lab.egg-info/top_level.txt
