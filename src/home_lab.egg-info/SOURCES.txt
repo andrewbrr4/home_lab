@@ -1,3 +1,4 @@
+README.md
 pyproject.toml
 src/home_lab/__init__.py
 src/home_lab/defaults.py
