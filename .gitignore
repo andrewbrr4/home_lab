@@ -1,2 +1,2 @@
-src/home_lab.egg-info/*
-build/*
+home_lab.egg-info
+build
