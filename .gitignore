@@ -1,2 +1,5 @@
 home_lab.egg-info
 build
+.ipynb_checkpoints
+__pycache__
+.idea
