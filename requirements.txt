@@ -36,3 +36,4 @@ kagglehub
 bertopic
 spacy
 datasets
+sklearn-crfsuite
